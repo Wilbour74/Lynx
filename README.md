@@ -1,2 +1,2 @@
 # Lynx
-Test technique lynx
+npm install / composer install
